@@ -1,5 +1,4 @@
 <h1>To-Do List (Web Application)</h1>
-<hr>
 <p>This project is a simple To-Do List web application built using:</p>
 <br>
 <ul>- HTML</ul>
